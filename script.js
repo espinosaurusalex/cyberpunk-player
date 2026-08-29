@@ -11,7 +11,7 @@ const songs = [
     title: "I Really Want To Stay At Your House",
     artist:"Rosa Weldon",
     cover: "imagens/capa-2.gif",
-    src: "assets/I Really Want To Stay At Your House.mp3"
+    src: "assets/stay-at-your-house.mp3"
 
 },
 
